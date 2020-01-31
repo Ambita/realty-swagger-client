@@ -27,7 +27,6 @@
                 <sourceFolder>src/main/java</sourceFolder>
               </configOptions>
               <generateApiTests>false</generateApiTests>
-              <modelNamePrefix>Realty</modelNamePrefix>
               <modelPackage>com.ambita.realty.model</modelPackage>
               <groupId>com.ambita.realty</groupId>
               <artifactId>realty-swagger-client</artifactId>
