@@ -28,10 +28,10 @@
               </configOptions>
               <generateApiTests>false</generateApiTests>
               <modelNamePrefix>Realty</modelNamePrefix>
-              <modelPackage>com.ambita.model</modelPackage>
-              <groupId>com.ambita</groupId>
+              <modelPackage>com.ambita.realty.model</modelPackage>
+              <groupId>com.ambita.realty</groupId>
               <artifactId>realty-swagger-client</artifactId>
-              <apiPackage>com.ambita.api</apiPackage>
+              <apiPackage>com.ambita.realty.api</apiPackage>
             </configuration>
           </execution>
         </executions>
