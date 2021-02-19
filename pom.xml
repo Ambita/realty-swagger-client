@@ -6,7 +6,7 @@
 
   <groupId>com.ambita</groupId>
   <artifactId>realty-swagger-client</artifactId>
-  <version>1.8-SNAPSHOT</version>
+  <version>1.8</version>
 
   <build>
     <finalName>${project.artifactId}</finalName>
